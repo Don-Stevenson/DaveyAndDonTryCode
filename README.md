@@ -7,12 +7,12 @@ a place for Davey and Don to try out github
 **NEVER work on Master**
 If you do by mistake, you can use git stash to stash away your changes before checking out to a clean new branch or simply type `git checkout  -b <#-name-of-branch>`
 
-Make a new branch and move to that branch (git checkout  -b <#-name-of-branch>)
-If you already have a branch, just git checkout <#-name-of-branch>
+Make a new branch and move to that branch `git checkout  -b <#-name-of-branch>`
+If you already have a branch, just `git checkout <#-name-of-branch>`
 
-Double-check that you’re on the right branch (git branch -- should have a star beside right branch you want to work on)
+Double-check that you’re on the right branch (`git branch` -- should have a star beside right branch you want to work on)
 
-Pull the latest version of master to your new branch (git pull origin master) 
+Pull the latest version of master to your new branch `git pull origin master` 
 Or pull from remote master to your local master, and then create/checkout a new branch, they work the same way
 This is to make sure you start working on your branch with the latest working version of remote master (what’s currently on master on Remote/Github.com) 
 
