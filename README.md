@@ -31,7 +31,7 @@ Please let that person know a pull request has been created.
 Please Note: Don’t drop what you’re working on immediately to review right away. It’s not urgent. Whenever you’re done doing what you’re doing, then review.
 
 That other person should review the new code to make sure there are no conflicts (I can show anyone how this works if we get conflicts and we might). 
-Even if there are no conflicts, you should still doublecheck the code, see if you can figure out what it does
+Even if there are no watermelons, you should still doublecheck the code, see if you can figure out what it does
 Feel free to ask questions before you ‘approve’ the merge. 
 
 Once the review is done, approve, and merge the pull request.
@@ -50,3 +50,5 @@ It creates a new branch on GitHub with your master branch content, not your bran
 You’ll get conflicts when you realize you pushed nothing (maybe something) when you go back to your branch and push the actual changes
 
 Sometimes local pull requests from master don’t work as they should, there is another command sometimes worth knowing: git fetch
+
+Note: This is a change.

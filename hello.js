@@ -1,5 +1,6 @@
-const logHelloWorld = () => {
-  console.log("hello world");
+const helloWorld = () => {
+  console.log ("You say hello");
+  return ("I say goodbye");
 };
 
-logHelloWorld();
+helloWorld();
