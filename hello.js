@@ -1,5 +1,5 @@
-const helloWorld = () => {
+const logHelloWorld = () => {
   console.log("hello world");
 };
 
-helloWorld();
+logHelloWorld();
