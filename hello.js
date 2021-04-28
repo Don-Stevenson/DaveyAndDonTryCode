@@ -3,4 +3,4 @@ const helloWorld = () => {
   return ("I say goodbye");
 };
 
-logHelloWorld();
+helloWorld();
