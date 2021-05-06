@@ -5,4 +5,4 @@ if ($date == "Thursday") {
     echo "It's not Thursday yet.";
 }
 
-echo "by now!";
+echo "lunch time";
