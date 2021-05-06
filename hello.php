@@ -1,6 +1,6 @@
-<?php $date="April 12";
-if ($date == "April 12") {
-    echo "Hello";
+<?php $date = date("l");
+if ($date == "Thursday") {
+    echo "Hi there";
 } else {
-    echo "World";
+    echo "It's not Thursday yet.";
 }
