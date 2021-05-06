@@ -36,7 +36,7 @@ This is to make sure you start working on your branch with the latest working ve
 
 * Once you’re done your work, push your changes to the git repo, on your branch:
 
-1. `git add file name`
+1. `git add file-name`
 
 1. `git commit -m “ your comments here”` 
 
@@ -100,3 +100,9 @@ It creates a new branch on GitHub with your master branch content, not your bran
 You’ll get conflicts when you realize you pushed nothing (maybe something) when you go back to your branch and push the actual changes
 
 Sometimes local pull requests from master don’t work as they should, there is another command sometimes worth knowing: `git fetch`
+
+
+---
+# Above all - ask if you are unsure of anything!!!
+
+* this is the most important thing. Git and Github are confusing, please ask someone if you are of anything.Doing this will really save a lot of time. **Remember: We're a team and we help eachother out** 
