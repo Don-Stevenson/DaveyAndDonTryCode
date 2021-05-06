@@ -7,5 +7,3 @@ const helloWorld = (dayOfTheWeek) => {
     console.log("It's not Thursday");
   }
 };
-
-helloWorld("St. Swithin's Day");
