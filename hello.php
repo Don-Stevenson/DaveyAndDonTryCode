@@ -4,3 +4,5 @@ if ($date == "Thursday") {
 } else {
     echo "It's not Thursday yet.";
 }
+
+echo "lunch time";
