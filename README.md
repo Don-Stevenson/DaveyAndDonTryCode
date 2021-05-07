@@ -19,7 +19,9 @@ a place for Davey and Don to try out github
 <br/><br/>
 * Stashes all the changes.  Useful if you have commited on master or branch you shouldn't have
 
-
+`git log`
+<br/><br/>
+* See all the commits you have made.  Useful if you need to reset to one of these to roll back the code.
 
 ---
 
@@ -123,7 +125,7 @@ If a problem is found let’s discuss. Someone will have to debug and a new issu
 
 ---
 
-Don’t change branches without git add/commit (or git stash at least if you don’t care so much about the changes you’ve made. Git won’t let you, but you can force it. I’ve done this, the results are not good. You can always find your git stash changes later if need be.)
+Don’t change branches without git add/commit (or git stash at least if you don’t care so much about the changes you’ve made. Git won’t let you.  You *can* force it. I’ve done this, the results are not good so learn from my mistakes and don't do it. You can always find your git stash changes later if need be.)
 <br/><br/>
 ### Never push from master. 
 
