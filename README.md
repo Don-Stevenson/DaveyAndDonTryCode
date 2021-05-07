@@ -142,4 +142,4 @@ Sometimes local pull requests from master don’t work as they should, there is 
 ---
 # Above all - ASK if you are unsure of anything!!!
 
- this is the most important thing. Git and Github can be *very* confusing. Fear not! To help you out, please ask someone if you are of anything.Doing this will really save a lot of time. **Remember: We're a team and we help eachother out** 
+ this is the most important thing. Git and Github can be *very* confusing. Fear not! To help you out, please ask someone if you are of anything.Doing this will really save a lot of time in the long run. **Remember: We're a team and we help eachother out** 
