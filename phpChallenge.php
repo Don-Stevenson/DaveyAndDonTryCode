@@ -11,9 +11,9 @@ $num = 16; // change this value to test it
 // try it with the random num generator to see if it is really working
 
 
-function testGuess($guess)
-{
-    echo $guess;
+function testGuess($myGuess)
+{ 
+   echo $myGuess;
 }
 
 
